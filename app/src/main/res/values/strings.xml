@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CrosswordleSolver</string>
+    <string name="crosswordlesolver">Crosswordle Solver</string>
+    <string name="anagrams">Anagrams</string>
+    <string name="wordle">Wordle</string>
+    <string name="wordladder">Word Ladder</string>
+</resources>
